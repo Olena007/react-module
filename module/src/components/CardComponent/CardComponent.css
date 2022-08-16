@@ -1,0 +1,10 @@
+.item {
+    width: 30%;
+    margin: 30px 50px;
+}
+
+.btn-style{
+    display: flex;
+    justify-content: space-between;
+    width: 200px;
+}
